@@ -19,6 +19,6 @@ kiem-tra.js       Kiểm tra nhanh hàm tính tổng: node kiem-tra.js
 - Nguyễn Minh
 - Trần Lan
 - Lê Hùng
-- Nguyễn Minh Hiển
+- Nguyễn Tấn Dũng
 
 ## Cách kiểm tra: `node kiem-tra.js`
